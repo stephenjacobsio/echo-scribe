@@ -10,7 +10,8 @@ EchoScribe is a modern, scalable blogging platform, built as a microservices arc
 - Asynchronous communication and message queuing (e.g., RabbitMQ/Kafka).
 - Containerization with Docker and orchestration with Kubernetes.
 - Comprehensive unit and integration testing with NUnit.
-- CI/CD integration using GitHub Actions.
+- CI/CD integration using Azure DevOps pipelines.
+- Container management using Kubernetes configures with Helm charts.
 - Global exception handling and robust logging.
 
 ## Services 📦
@@ -110,8 +111,6 @@ If you like my work and want to support me, consider buying me a coffee!
 Contributions to EchoScribe are welcome! Please read [CONTRIBUTING.md](https://github.com/rootiovo/echoscribe/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License 📄
-
-
 
 EchoScribe is licensed under the MIT License - see the [LICENSE.md](https://github.com/rootiovo/echoscribe/LICENSE.md) file for details.
 
